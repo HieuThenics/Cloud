@@ -48,7 +48,7 @@ session_start();
     <h1>ATN</h1>
 
     <form class="form-inline my-2 my-lg-0" action="search.php" method="GET">
-    <input class="form-control mr-sm-2" type="search" placeholder="Search for song" style="width: 400px" name="Search">
+    <input class="form-control mr-sm-2" type="search" placeholder="Search for product" style="width: 400px" name="Search">
     <input type="submit"name="search" value="Search" />
     </form>
     <div> ^ - ^ </div>
