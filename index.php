@@ -112,7 +112,7 @@ session_start();
               $product_price =$row['product_price'];
               $product_image =$row['product_image'];
 
-//<div><img src="images/<?php echo $row['product_image']?>" style="width: 247px;height: 200px;padding: 7px"></div>
+
                echo"
                <div class=col-md-4>
               <style>
@@ -124,7 +124,7 @@ session_start();
               <div class='single_product'>
               <h3>$product_name</h3>
               <img src='images/$product_image' width='360' height='280' />
-
+           
                 <style>
                 .btn-text-left{
                 text-align: left;
