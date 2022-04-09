@@ -111,7 +111,7 @@ session_start();
               $product_name = $row['product_name'];
               $product_price =$row['product_price'];
               $product_image =$row['product_image'];
-
+          
 
                echo"
                <div class=col-md-4>

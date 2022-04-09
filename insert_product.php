@@ -92,12 +92,7 @@
                 <input type="hidden" value="" name="recaptchaResponse">
               </form>
               <?php
-              $servername = 'localhost';
-              $username ='root';
-              $password='';
-              $database = 'cloud';
-
-              $connect = mysqli_connect($servername, $username,$password,$database);
+              include('connect.php');
               
                   
 
@@ -114,7 +109,7 @@
                
 
 
-               move_uploaded_file($product_image_tmp,"Images/$product_image");   
+               move_uploaded_file($product_image_tmp,"images/$product_image");
 
   
    
