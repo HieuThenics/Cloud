@@ -65,7 +65,7 @@
       <div class="u-clearfix u-sheet u-sheet-1">
         <div class="u-align-center u-container-style u-group u-radius-50 u-shape-round u-white u-group-1">
           <div class="u-container-layout u-valign-middle u-container-layout-1">
-            <h3 class="u-text u-text-default u-text-1">  Add new song</h3>
+            <h3 class="u-text u-text-default u-text-1">  Add</h3>
             <div class="u-expanded-width u-form u-login-control u-form-1">
               <form action="" method="POST" enctype="multipart/form-data" class="u-clearfix u-form-custom-backend u-form-spacing-35 u-form-vertical u-inner-form" source="custom" name="form-2" style="padding: 10px;">
                 <div class="u-form-group u-form-name">
