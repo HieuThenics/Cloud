@@ -1,7 +1,7 @@
 <?php
-$servername = 'localhost';
-$username ='root';
-$password='';
+$servername = '3.132.234.157';
+$username ='Hieu';
+$password='123@123a';
 $database = 'cloud';
 
 
