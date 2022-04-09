@@ -23,7 +23,7 @@ session_start();
 		"@context": "http://schema.org",
 		"@type": "Organization",
 		"name": "",
-		"logo": "images/MichaelCorleone.png"
+		"logo": "images/Kim_da_mi.jpg"
 }</script>
     <meta name="theme-color" content="#478ac9">
     <meta property="og:title" content="Home">
@@ -54,7 +54,7 @@ session_start();
     <div> ^ - ^ </div>
     </div> 
         <a href="https://nicepage.com" class="u-image u-logo u-image-1" data-image-width="1185" data-image-height="1015">
-          <img src="images/MichaelCorleone.png" class="u-logo-image u-logo-image-1" data-image-width="1000">
+          <img src="images/Kim_da_mi.jpg" class="u-logo-image u-logo-image-1" data-image-width="1000">
         </a>
         <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
           <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px;">
